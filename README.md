@@ -1,2 +1,2 @@
-# Z2rkhard-PersonalStudyNotes/Kubernetes
-  该分支用于存储 Kubernetes 相关的笔记
+# Z2rkhard-PersonalStudyNotes/dev
+  请在此分支进行修改，然后进行Pull Request<font color="red">更改</font>
